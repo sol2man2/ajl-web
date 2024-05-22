@@ -2,7 +2,7 @@
     <div class="self-stretch h-[94px] pl-[455px] pr-[1343px] pt-[22px] pb-3 bg-purple-300 justify-start items-center inline-flex">
         <div class="self-stretch justify-start items-center gap-[241px] inline-flex">
 			<div class="w-[182px] h-[60px] justify-center items-center gap-1.5 flex">
-				<img class="w-[250px] h-[92px]" src="large 애잘린.png" />
+				<img class="w-[250px] h-[92px]" src="large 애잘린.png" alt="애잘린 CI" />
 			</div>
         </div>
     </div>
@@ -13,12 +13,12 @@
                 <div class="text-black text-[80px] font-normal font-['Inter'] leading-[80px]">Value<br/>Outcome</div>
                 <div class="w-[382px] h-[308px] text-black text-[28px] font-normal font-['Inter'] leading-7">애잘린이 추구하는 것은 <br/>고객 가치를 담은<br/>프로덕트와 서비스를 창출하는<br/>행복한 문화이다.</div>
             </div>
-            <img class="w-[605px] h-[562px]" src="collaboration development.jpeg" />
+            <img class="w-[605px] h-[562px]" src="collaboration development.jpeg" alt="collab" />
         </div>
     </div>
     <div class="self-stretch h-[600px] pl-[463px] pr-[464px] pt-[19px] pb-[18px] bg-purple-300 justify-center items-center inline-flex">
         <div class="grow shrink basis-0 self-stretch justify-start items-start gap-20 inline-flex">
-            <img class="w-[367px] h-[563px]" src="sol2man2-kakaobrain.jpeg" />
+            <img class="w-[367px] h-[563px]" src="sol2man2-kakaobrain.jpeg" alt="sol2man2" />
             <div class="grow shrink basis-0 flex-col justify-start items-start gap-[72px] inline-flex">
                 <div class="self-stretch text-black text-[80px] font-normal font-['Inter'] leading-[80px]">Agile Coach<br/>송근창</div>
                 <div class="self-stretch h-[308px] text-black text-[28px] font-normal font-['Inter'] leading-[33.60px]">LG전자에서 혁신 활동과 SW 개발을 컨설팅하고 코칭하고 RedHat에서 Open Innovation Labs 솔루션에 Agile Engagement Lead로 고객사의 가치 창출을 지원했으며 카카오브래인에서 Agile Coach로 활동하고 있다.<br/>특히 Jeff Sutherland 박사님의 True Scrum을 추구하여 복잡계 시스템을 게임의 룰에는 간단하게 접근하고 게임의 정신에는 깊이 있게 다룬다.</div>
@@ -34,8 +34,8 @@
                 </div>
             </div>
             <div class="flex-col justify-start items-start gap-[25px] inline-flex">
-                <img class="w-[205px] h-[183px]" src="SM-Badge.webp" />
-                <img class="w-[205px] h-[183px]" src="PO-Badge.webp" />
+                <img class="w-[205px] h-[183px]" src="SM-Badge.webp" alt="SM Badge" />
+                <img class="w-[205px] h-[183px]" src="PO-Badge.webp" alt="PO Badge" />
             </div>
         </div>
     </div>
